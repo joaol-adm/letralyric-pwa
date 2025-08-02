@@ -1,6 +1,6 @@
 {
-  "name": "LetraSync by JL",
-  "short_name": "LetraSync",
+  "name": "LetraSync",
+  "short_name": "LetraSync by JL",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#222",
